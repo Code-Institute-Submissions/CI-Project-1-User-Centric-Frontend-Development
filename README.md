@@ -10,22 +10,57 @@ My goal with the website is very simple, first have a look at the rich history o
 
 ### Project Goals 
 
-The primary goal is to provide a clean, intuitive and userfriendly website for the admission team at Trinity College, to showcase my best side and help me to potentially get the partial scholarship. The website will only be viewed by the admission team as a supporting project to my main admission. 
+The primary goal is to provide a clean, intuitive and userfriendly website for the admission team at Trinity College, to showcase my best side and help me to potentially get the partial scholarship. The website will only be viewed by the admission team as a supporting project to my main submisson. 
 
-The secondary goal is to learn how to make stunning and beautiful websites that elicit a postive emotion in the end user. I want it to be educational about TCD's rich history and also interesting to read my story. 
+The secondary goal is to learn how to make stunning and beautiful websites that elicit a postive emotion in the end user. I want it to be educational about TCD's rich history and also interesting and iteractive to read my story. 
 
 ### User Goals 
+- A brochure website to view an extra submission by a student who wants to try and recieve a scholarship. 
+- A vissualy applealing and well functioning website. 
+- An ability to download the students CV, and contact them. 
+- Easy to navigate, with an intuitive feeling on the website. 
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Developer Goals 
+
+- A well thought out and easy to navigate brochure website with some stunning css and html. 
+- Some good basic functionality such as the download of CV, contact button, and gallery.
+- A project I am excited to learn from and make it part of my portfolio.
+
 
 ### User Stories  
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+
+As a user that is part of the addmissions team at Trinity College, I want:
+
+1. To see that sufficient effort went into this project and there are no spelling mistakes, so that I can be sure that this student deserves to recieve the partial scholarship.
+2. To see good use of colours on the website that are also alligned with Trinity College's brand colours, so that I can easier relate to the website and understand it's purpose easily. 
+3. To be able to navigate the website easily and intuitively, so that I do not get a negative emotion viewing the website. 
+4. To be able click on each link and it's content either neatly opens on the website I am viewing or on a seperate tab if it's from a diffent source, so that I have a pleasant user experience that has a natrual flow to it.
+5. To be able to easily understand that an action I have done was perfomed or is about to be performed, for example if I am about to click on a button the clour of this button changes, so that I can understand when I am about to click on a new action. 
+6. To have no doubt that this website was carefully crafted and nothing told was an exageration or untruth, so that I can be sure that I can trust this individual. 
+7. To see easy to understand visual icons I am familiar with like the social media tags we all know or the download button, so that I can easily use visual ques to navigate the website. 
 
 ### Design Choices 
+
+The website was designed so that it clearly shows the admission team at Trinity College all of the information that they need to know about the student who wishes to recieve the partial scholarship. The website needs to be easy to navigate and intuitive to these users. 
+
+#### Fonts 
+
+#### Icons 
+
+#### Colours 
+
+#### Styling 
+
+#### Backgrounds 
+
+#### Card Imagery 
+
+#### Video Files 
+
+Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Wireframes 
  
@@ -74,6 +109,16 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+### Bugs Discovered 
+
+#### Solved Bugs 
+
+1. 
+
+
+
+2. 
+
 ## 5.Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -87,6 +132,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## 6.Credits
+
+### Code 
+
+- Template code for the navbar was taken from [GetBoostrap](https://getbootstrap.com/docs/5.0/components/navbar/) and heavily modified to suit the sites needs. 
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
