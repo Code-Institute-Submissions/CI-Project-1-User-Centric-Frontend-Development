@@ -1,4 +1,4 @@
-/*-------------- Fonts ---------------*/
+/*-------------- fonts ---------------*/
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 * {
@@ -8,12 +8,21 @@
   font-family: "Poppins", sans-serif;
 }
 
-/*-------------- Header---------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins';
+}
+
+/*-------------- header---------------*/
 header {
     margin: 0; 
 }
 
-/*-------------- Navbar ---------------*/
+/*-------------- navbar ---------------*/
 
 
 .navbar {
@@ -49,7 +58,7 @@ header {
 
 
 
-/*-------------- Hero video ---------------*/
+/*-------------- hero video ---------------*/
 
 
 .home-video {
@@ -74,7 +83,7 @@ video {
     border-radius: 3em;
 }
 
-/*-------------- Footer ---------------*/
+/*-------------- footer ---------------*/
 
 .text-black {
     color: black;
@@ -83,6 +92,29 @@ video {
 
 a:hover {
     color: #0E73B9;
+}
+
+/*-------------- trinity ---------------*/
+
+
+
+
+/*-------------- achievements ---------------*/
+
+
+
+
+
+
+  
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 
