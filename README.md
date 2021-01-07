@@ -113,11 +113,13 @@ If this section grows too long, you may want to split it off into a separate fil
 
 #### Solved Bugs 
 
-1. 
+1. The Nav Bar would not center as I wanted, I solved this in a creative way 
 
 
 
-2. 
+2. The background for the hero text 
+
+3. 
 
 ## 5.Deployment
 
@@ -136,6 +138,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Code 
 
 - Template code for the navbar was taken from [GetBoostrap](https://getbootstrap.com/docs/5.0/components/navbar/) and heavily modified to suit the sites needs. 
+- Template code for the footer was taken from [MDbBootstrap.com](https://mdbootstrap.com/) and used as the structure on top of which I built and styled the footer, I used a mixture of Goolge searches and the tutorials provided by Code Institute to get the desired look. 
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)

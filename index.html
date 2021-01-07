@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Index</title>     <!--T: 1. is this a good title? -->
 
-    <!--Linking to bootstrap & to style.css -->
+    <!--Linking to bootstrap, fontawesome & to style.css -->
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
@@ -16,12 +17,12 @@
      <!--Navbar -->
 
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container-fluid">
 
-    <!--Logo & Title -->
+        <!--Logo & title (part of Navbar) -->
 
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" id="navbar-brand" href="#">
       <img src="assets/images/trinity_college_dublin_logo.png" alt="" width="36" height="33" class="d-inline-block align-top">
       x Yuriy Kovalchuk 
         </a>
@@ -47,7 +48,7 @@
             </li>
         </ul>
         <form class="d-flex">
-            <button class="btn btn-outline-success" type="submit">Download CV</button>
+            <button class="btn btn-primary" type="submit"> Download CV <i class="fas fa-download"></i></button>
         </form>
         </div>
     </div>
@@ -55,26 +56,90 @@
 
     <!-- video home page --> 
 
-    <div class="video">
+    <div class="home-video">
         <video autoplay muted loop>
             <source class="embed-responsive" src="assets/videos/trinity_college.mp4" type="video/mp4">
         </video>
 
 
-    <!-- text over video  --> 
+        <!-- text over video  --> 
 
        <div class="hero text-center">
-         <h2 class="text-light display-5 font-weight-bold">Your Potential Realised</h2>
+         <h1 class="text-light display-5 font-weight-bold">Your Potential Realised</h1>
          <p class="text-light mx-auto">Trinity College In Dublin has a long history in supporting talented students, and one day I wish to make TCD very proud</p>
-         <a class="btn text-light" href="#">Read My Story Bellow</a>
+         <a class="btn text-light btn-primary" href="#">Read My Story Bellow</a>
+        </div>
     </div>
-</div>
 
 
 </header>
 
-    
+      <!-- footer -->
 
+<footer class="bg-light text-black text-center text-lg-start">
+
+  <div class="container p-4">
+
+    <div class="row">
+
+      <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+        <h5 class="text-uppercase">Footer Content</h5>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
+          molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam
+          voluptatem veniam, est atque cumque eum delectus sint!
+        </p>
+      </div>
+     
+      <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+        <h5 class="text-uppercase">Links</h5>
+
+        <ul class="list-unstyled mb-0">
+          <li>
+            <a href="#!" class="text-black" id="text-black">Link 1</a>
+          </li>
+          <li>
+            <a href="#!" class="text-black" >Link 2</a>
+          </li>
+          <li>
+            <a href="#!" class="text-black">Link 3</a>
+          </li>
+          <li>
+            <a href="#!" class="text-black">Link 4</a>
+          </li>
+        </ul>
+      </div>
+    
+      <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+        <h5 class="text-uppercase mb-0">Links</h5>
+
+        <ul class="list-unstyled">
+          <li>
+            <a href="#!" class="text-black">Link 1</a>
+          </li>
+          <li>
+            <a href="#!" class="text-black">Link 2</a>
+          </li>
+          <li>
+            <a href="#!" class="text-black">Link 3</a>
+          </li>
+          <li>
+            <a href="#!" class="text-black">Link 4</a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+  <div class="text-center p-3" style="background-color: #0E73B9;">
+     Yuriy Kovalchuk 2021
+ </div>
+ </footer>
     
     <!-- javascript linkup with bootstrap -->
 
