@@ -105,10 +105,9 @@ section .container {
 
 
 
+/*-------------- ambassador ---------------*/
 
 
-
-  
 .carousel-item {
   height: 65vh;
   min-height: 350px;
@@ -118,5 +117,17 @@ section .container {
   -o-background-size: cover;
   background-size: cover;
 }
+
+
+/*-------------- contact ---------------*/
+.center-form {
+    padding-top: 10px;
+    max-width: 70%;
+}
+
+
+
+
+  
 
 
