@@ -136,6 +136,20 @@ a:hover {
 }
 
 
+.list-social .fab {
+    color: #0E73B9;
+    font-size: inherit;
+    
+}
+
+.social-icon {
+    text-decoration: none;
+}
+
+.list-social {
+    list-style-type: none;
+}
+
 
 
   
