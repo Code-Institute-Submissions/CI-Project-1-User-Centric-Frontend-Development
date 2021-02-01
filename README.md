@@ -1,4 +1,4 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">. (my image)
+<img src="https://ca9acafe-50fb-4f27-ad5b-10cbdcec00d5.ws-eu03.gitpod.io/#/workspace/CI-Project-1-User-Centric-Frontend-Development" style="margin: 0;">. (my image)
 
 # CI: Project-1 User Centric Frontend Development - Trinity College Scholarship Application
 
@@ -47,67 +47,93 @@ As a user that is part of the addmissions team at Trinity College, I want:
 The website was designed so that it clearly shows the admission team at Trinity College all of the information that they need to know about the student who wishes to recieve the partial scholarship. The website needs to be easy to navigate and intuitive to these users. 
 
 #### Fonts 
+The website was designed using the ‘Poppins’ font and the ‘Sans-Serif' font as the fall back option for the website, if Poppins was not available. I found this font on Google fonts website, and think it makes my website look modern and very clean, this was the look I was going for.
 
 #### Icons 
+The website uses minimal iconography as I did not want to clutter my website, or compromise the user experience. I made this decision after watching the videos on the design principles, I decided to keep this minimal. I use it only when it makes logical sense and improves the user experience, for example like for the download button in my navigation bar.
 
 #### Colours 
+The website was designed with two main colours in mind, shades of light blue and orange. I believe these colours complement each other really well and work together nicely. The other reason I have chosen these colours is because Trinity College’s brand uses these colours, since my main target audience will be Trinity College, I have decided to use these colours. 
+
+The secondary colour is green, this was my own decision to use this colour and I think it makes my website look more fresh and really pops my last section. 
 
 #### Styling 
+I tried to keep the same look for all of my buttons and borders, padding etc to make my website consistent and clean looking. I initially did not do this and then decided to start the project from the start following these principles. 
+
+All sections have the same font and spacing between them, making them consistent and keeping the websites look similar therefore providing a user friendly and familiar experience. 
 
 #### Backgrounds 
-
-#### Card Imagery 
+All background images were either taken from Google images or were my own photos have been chosen by me and edited further in photoshop to make them unique and specific for this website. I have done this intentionally to give the website a unique and memorable look. 
 
 #### Video Files 
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The video files were taken directly from the YouTube video of the university for which I was making the website, I then edited this video in final cut pro to make it shorter, changing slightly the colour grading and cutting the long video into a short 43 second clip. I then played it on loop on the website. 
 
 ### Wireframes 
  
- This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+The wireframes were created using[Balsamiq](https://balsamiq.com/)
+
+ during the scoping part of the project, when I planned the design of this website for the mobile and desktop version. 
+[Mobile Version](https://jquery.com)
+[Web version](https://jquery.com)
+
 
 ## 2.Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The website has 4 main features that are all very basic since it is my first project. 
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- Feature 1 - video on the home page - allows users admission team to visually see the effort that was put into my application, by viewing the website.
+- Feature 2 - carousel - allows the user viewing the website to view some images and texts as well as go to the next screen, by clicking the arrows back and forward.
+- Feature 3 - contact page - allows users to type dummy text and submit a query into the contact page, that will not be saved for now. 
+- Feature 4 - a google map - allows users to view where on the map trinity college is.
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Future Feature 1 - a section that automatically updates to the website my work that I publish to Medium.com
+- Future Feature 2 - a gallery that automatically displays my photos from Instagram.
+- Future Feature 3 - a section on the website that captures the person's email automatically and can send emails through services like mailchimp. 
+
 
 ## 3.Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+I used two main languages; HTML & CSS and the web framework I used was bootstrap. Some of the tools I used were Balsamiq for the wireframes. I also used Adobe Photoshop for creating custom images and iMovie to edit the video on the homepage. 
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Balsamiq](https://balsamiq.com/)- used for wireframes.
+- [Adobe Photoshop](https://www.adobe.com/ie/creativecloud.html?mv=search&sdid=MQH8S7GK&ef_id=Cj0KCQiAx9mABhD0ARIsAEfpavQNhXRa8M4gxWJiInmSaAWhJRXqoNAjGKTBqrBNXDQTkjRpRUrR_h8aAkuwEALw_wcB:G:s&s_kwcid=AL!3085!3!394398083730!e!!g!!adobe!1423510982!55397704265&gclid=Cj0KCQiAx9mABhD0ARIsAEfpavQNhXRa8M4gxWJiInmSaAWhJRXqoNAjGKTBqrBNXDQTkjRpRUrR_h8aAkuwEALw_wcB)-used for editing images.
+- [iMovie](https://www.apple.com/imovie/)- used for editing the video.
+
 
 
 ## 4.Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Testing client stories from UX section of README.md
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+1. To see that sufficient effort went into this project and there are no spelling mistakes, so that I can be sure that this student deserves to receive the partial scholarship.
+i . I used free services like Grammarly which corrects your spelling as you write. Other content came from verified and credible sites like Wikipedia. 
+ii. You can see that I put time and effort into the design and layout of the website and this should be immediately clear. 
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+2. To be able to navigate the website easily and intuitively, so that I do not get a negative emotion viewing the website. 
+i. I was able to design in a way that is very intuitive to use both as a mobile version and desktop version.
+ii. Each of the navigations does what it's meant to and the links work and direct you to the correct part of the website. 
+iii. When you click on the logo you are brought back to the website as intended.
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+3. To be able to click on each link and it's content either neatly opens on the website I am viewing or on a seperate tab if it's from a different source, so that I have a pleasant user experience that has a natural flow to it.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+i. Where it makes logical sense a new tab is correctly opened and you can see each new website that this site links to open in a new tab. I have tested all of the links and all of them work. 
+ii. In other instances the site navigates to the correct part of the site with a great user experience. 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+4. To be able to easily understand that an action I have done was performed or is about to be performed, for example if I am about to click on a button the colour of this button changes, so that I can understand when I am about to click on a new action.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+i. This has been achieved with CSS and tested, anytime you hover over any button this happens. The button is highlighted and you can see your action is about to be performed.
+ii. The buttons press smoothly and you and action occurs with no delays.
+
+5. To see easy to understand visual icons I am familiar with like the social media tags we all know or the download button, so that I can easily use visual cues to navigate the website.
+
+i. Minimal icons have been used on the website, however there are a few strategic locations where they have been placed, they all work as intended and when you click on them you are brought to a new tab in your browser and the correct link opens. 
+
+
 
 ### Bugs Discovered 
 
@@ -123,15 +149,13 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## 5.Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+I followed the instructions on the web to deploy my project onto the github pages. This was relatively straight forward all I had to do was change the settings, specifically under the GitHub pages. I changed the source branch to ‘master’ and the folder to ‘root’. 
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
+To run this code locally do the following. 
+1. Download the code repository to your computer - can do this by pressing the “download zip” on the top right of the repository. 
+2. You can then open all of the files using your preferred editor, like brackets or gitpod. 
+3. You will be able to open the file locally after you do this. 
+ 
 
 ## 6.Credits
 
@@ -146,12 +170,12 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from Google Images and my personal photos all of which I edited in Adobe Photoshop. 
+The video was obtained from this [link] (https://www.youtube.com/watch?v=DbZALsDfLuU) and edited using iMovie. 
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
-
+- I received inspiration for this project from viewing different sites I have previously seen that I liked, as well as looking at the [Awwwards] (https://www.awwwards.com/) site and searching for bootstrap related websites and choosing elements I really liked. 
 
 ------- 
 
