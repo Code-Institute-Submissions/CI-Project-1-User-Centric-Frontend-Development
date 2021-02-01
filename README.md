@@ -1,4 +1,4 @@
-<img src="https://ca9acafe-50fb-4f27-ad5b-10cbdcec00d5.ws-eu03.gitpod.io/#/workspace/CI-Project-1-User-Centric-Frontend-Development" style="margin: 0;">. (my image)
+<img src="assets/images/readme_1.png" style="margin: 0;">. (my image)
 
 # CI: Project-1 User Centric Frontend Development - Trinity College Scholarship Application
 
