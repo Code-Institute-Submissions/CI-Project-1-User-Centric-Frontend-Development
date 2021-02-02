@@ -99,7 +99,7 @@ The website has 4 main features that are all very basic since it is my first pro
 
 I used HTML & CSS and the web framework I used was Bootstrap. Some of the tools I used were Balsamiq for the wireframes. I also used Adobe Photoshop for creating custom images and iMovie to edit the video on the homepage. 
 
-- [Bootstap] (https://getbootstrap.com/) - framework used for the website.
+- [Bootstap](https://getbootstrap.com/) - framework used for the website.
 - [Balsamiq](https://balsamiq.com/)- used for wireframes.
 - [Adobe Photoshop](https://www.adobe.com/ie/creativecloud.html?mv=search&sdid=MQH8S7GK&ef_id=Cj0KCQiAx9mABhD0ARIsAEfpavQNhXRa8M4gxWJiInmSaAWhJRXqoNAjGKTBqrBNXDQTkjRpRUrR_h8aAkuwEALw_wcB:G:s&s_kwcid=AL!3085!3!394398083730!e!!g!!adobe!1423510982!55397704265&gclid=Cj0KCQiAx9mABhD0ARIsAEfpavQNhXRa8M4gxWJiInmSaAWhJRXqoNAjGKTBqrBNXDQTkjRpRUrR_h8aAkuwEALw_wcB)-used for editing images.
 - [iMovie](https://www.apple.com/imovie/)- used for editing the video.
@@ -136,9 +136,7 @@ Testing client stories from UX section of README.md
 
 - I used [Lighthouse (click to see report)](assets/lighthouse/lighthouse.pdf) in the developers tools and was able to get a good score under those parammaters. 
 
-### Bugs Discovered 
-
-#### Solved Bugs 
+#### Discovered & Solved Bugs 
 
 1. The Nav Bar would not center as I wanted, I solved this in a creative way. Ny 
 
