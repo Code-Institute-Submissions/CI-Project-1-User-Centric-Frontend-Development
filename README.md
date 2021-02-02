@@ -134,8 +134,7 @@ Testing client stories from UX section of README.md
 - I used the [W3C](https://validator.w3.org/) and was able to solve all problmes associated with my code, appart from one small erorr to do with my map and using a % sign in it. My wesbite still worked. I was able to resolve all other issues.
 - I used the [Jigsaw](https://jigsaw.w3.org/css-validator/) and was able to solve all problems and had no issues with my CSS.
 
-- I used [Lighthouse](assets/lighthouse/lighthouse.pdf
-) in the developers tools and was able to get a good score under those parammaters. 
+- I used [Lighthouse click here for the report](assets/lighthouse/lighthouse.pdf) in the developers tools and was able to get a good score under those parammaters. 
 
 #### Discovered & Solved Bugs 
 
