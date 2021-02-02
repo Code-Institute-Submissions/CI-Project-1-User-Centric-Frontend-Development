@@ -134,24 +134,44 @@ Testing client stories from UX section of README.md
 - I used the [W3C](https://validator.w3.org/) and was able to solve all problmes associated with my code, appart from one small erorr to do with my map and using a % sign in it. My wesbite still worked. I was able to resolve all other issues.
 - I used the [Jigsaw](https://jigsaw.w3.org/css-validator/) and was able to solve all problems and had no issues with my CSS.
 
-- I used [Lighthouse (click to see report)](assets/lighthouse/lighthouse.pdf) in the developers tools and was able to get a good score under those parammaters. 
+- I used [Lighthouse](assets/lighthouse/lighthouse .pdf
+) in the developers tools and was able to get a good score under those parammaters. 
 
 #### Discovered & Solved Bugs 
 
-1. The Nav Bar would not center as I wanted, I solved this in a creative way. Ny 
+1. The background hero text in the centre of the video -  found how you could solve the problem on images and applied it to the video.
 
 ```python
-import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+.home-video {
+	position: relative;
+}
+
+video {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.hero {
+	position: absolute;
+	bottom: 50%;
+	left: 50%;
+	transform: translate(-50%, 50%);
+}
 ```
 
 
-2. The background for the hero text 
+2. Adding background for the hero text so you can read it easier
 
-3. Getting hero text in the centre
+```python
+.hero {
+	background-color: #00000096;
+	border-radius: 3em;
+	padding: 3em;
+}
+```
+
 
 ## 5.Deployment
 
@@ -173,11 +193,11 @@ To run this code locally do the following.
 - Template code for the carousel was taken from [GetBoostrap](https://getbootstrap.com/docs/5.0/components/carousel/) and heavily modified to suit the sites needs. 
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for section 'Trinity' was copied from the [Wikipedia about Trinity College](https://en.wikipedia.org/wiki/Trinity_College_Dublin)
 
 ### Media
 - The photos used in this site were obtained from Google Images and my personal photos all of which I edited in Adobe Photoshop. 
-The video was obtained from this [link] (https://www.youtube.com/watch?v=DbZALsDfLuU) and edited using iMovie. 
+The video was obtained from this [Youtube link](https://www.youtube.com/watch?v=DbZALsDfLuU) and edited using iMovie. 
 
 ### Acknowledgements
 
