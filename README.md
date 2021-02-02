@@ -191,6 +191,7 @@ To run this code locally do the following.
 - Template code for the cards was taken from [GetBoostrap](https://getbootstrap.com/docs/5.0/components/card/) and heavily modified to suit the sites needs. 
 - Template code for the carousel was taken from [GetBoostrap](https://getbootstrap.com/docs/5.0/components/carousel/) and  modified to suit the sites needs. 
 - Template code for the contact page was taken from [GetBoostrap](https://getbootstrap.com/docs/4.0/components/forms/) and modified to suit the sites needs. 
+- Template code for the Trinity page used [Startbootstrap](https://startbootstrap.com/previews/one-page-wonder) concept which was edited to suit the pages needs.
 
 ### Content
 - The text for section 'Trinity' was copied from the [Wikipedia about Trinity College](https://en.wikipedia.org/wiki/Trinity_College_Dublin)
