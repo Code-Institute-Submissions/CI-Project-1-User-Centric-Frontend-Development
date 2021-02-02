@@ -74,7 +74,7 @@ The video files were taken directly from the YouTube video of the university for
 The wireframes were created using[Balsamiq](https://balsamiq.com/)
 
  during the scoping part of the project, when I planned the design of this website for the mobile and desktop version. 
-[Mobile Version](https://jquery.com)
+[Mobile Version](assets/mockups/mobile_mockups.pdf)
 [Web version](https://jquery.com)
 
 
