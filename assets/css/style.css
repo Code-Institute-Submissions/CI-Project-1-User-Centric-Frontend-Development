@@ -33,11 +33,8 @@ header {
 }
 
 
-/*T: 1. Why is this not working? */
-
 .navbar-brand {
 	transition: all 1s ease-in-out;
-	/*T: 2. Could I try and use this somehow? transform: rotate(0.5turn); */
 }
 
 #navbarSupportedContent {
